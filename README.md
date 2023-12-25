@@ -15,7 +15,7 @@ The RAG Application (Gemini) is a Streamlit web application designed to question
 
 ## Demo
 
-You can access the live demo [here](https://share.streamlit.io/isurulkh/rag-application-gemini/main/app.py).
+You can access the live demo [here](https://geminirag.streamlit.app/).
 
 ## Table of Contents
 
